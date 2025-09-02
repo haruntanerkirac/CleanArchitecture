@@ -1,6 +1,6 @@
 ﻿using System.Reflection;
 
-namespace CleanArchitecture.Presentation
+namespace CleanArchitecture.Application
 {
     public static class AssemblyReference
     {
